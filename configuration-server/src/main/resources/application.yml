@@ -1,0 +1,21 @@
+server:
+  port: 8888
+spring:
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/michal-balut/trains
+          skip-ssl-validation: true
+          try-master-branch: false
+          search-paths: configuration-files
+          order: 0
+  datasource:
+    url: jdbc:h2:file:./data/config.db
+    username: admin
+    password: admin
+    driver-class-name: org.h2.Driver
+  h2:
+    console:
+      enabled: true
+
