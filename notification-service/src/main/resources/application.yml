@@ -1,0 +1,11 @@
+server:
+  port: 8123
+spring:
+  cloud:
+    function:
+      definition: paymentEventsConsumer
+    stream:
+      bindings:
+        paymentEventsConsumer-in-0:
+          destination: payment-events
+          group: ${random.uuid}
