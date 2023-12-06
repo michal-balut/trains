@@ -6,3 +6,5 @@ spring:
           predicates:
             - Path=/api/payments/**
           uri: lb://PAYMENTS-SERVICE
+          filters:
+            - RewritePath=/api/payments(?<segment>.*), $\{segment}
