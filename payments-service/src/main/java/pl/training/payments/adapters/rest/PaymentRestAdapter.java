@@ -18,7 +18,6 @@ import pl.training.payments.commons.web.LocationUri;
 import pl.training.payments.commons.web.ResultPageDto;
 import pl.training.payments.ports.PaymentService;
 
-@RequestMapping("payments")
 @RestController
 @RequiredArgsConstructor
 public class PaymentRestAdapter {
@@ -33,7 +32,7 @@ public class PaymentRestAdapter {
         return ResponseEntity.ok(paymentDto);
     }
 
-   @PostMapping
+   @PostMapping("process")
    public ResponseEntity<PaymentDto> process(@RequestBody @Valid PaymentRequestDto paymentRequestDto) {
         var paymentRequest = mapper.toDomain(paymentRequestDto);
         var paymentDomain = paymentService.process(paymentRequest);
