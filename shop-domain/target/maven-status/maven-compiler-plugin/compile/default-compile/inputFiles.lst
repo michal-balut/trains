@@ -1,0 +1,7 @@
+/Users/u758748/Developer/spring-cloud/shop-domain/src/main/java/pl/training/payments/ports/PaymentsService.java
+/Users/u758748/Developer/spring-cloud/shop-domain/src/main/java/pl/training/payments/ports/ShopService.java
+/Users/u758748/Developer/spring-cloud/shop-domain/src/main/java/pl/training/payments/domain/DiscountCalculator.java
+/Users/u758748/Developer/spring-cloud/shop-domain/src/main/java/pl/training/payments/domain/Order.java
+/Users/u758748/Developer/spring-cloud/shop-domain/src/main/java/pl/training/payments/domain/OrderProcessor.java
+/Users/u758748/Developer/spring-cloud/shop-domain/src/main/java/pl/training/payments/domain/OrderEntry.java
+/Users/u758748/Developer/spring-cloud/shop-domain/src/main/java/pl/training/payments/domain/ConstantDiscountCalculator.java

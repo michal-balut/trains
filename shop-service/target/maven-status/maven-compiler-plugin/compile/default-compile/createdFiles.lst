@@ -1,0 +1,15 @@
+pl/training/payments/adapters/rest/OrderDto.class
+pl/training/payments/adapters/payments/RestTemplatePaymentsService.class
+pl/training/payments/adapters/rest/OrderEntryDto.class
+pl/training/payments/adapters/payments/PaymentDto.class
+pl/training/payments/adapters/events/PaymentEventDto.class
+pl/training/payments/adapters/rest/RestShopMapper.class
+pl/training/payments/ShopApplication.class
+pl/training/payments/adapters/payments/PaymentsApi.class
+pl/training/payments/adapters/rest/RestShopMapperImpl.class
+pl/training/payments/adapters/rest/ShopRestAdapter.class
+pl/training/payments/commons/CustomHealthEndpoint.class
+pl/training/payments/adapters/payments/FeignPaymentsService.class
+pl/training/payments/adapters/events/StreamEventConsumer.class
+pl/training/payments/adapters/payments/PaymentRequestDto.class
+pl/training/payments/ShopConfiguration.class

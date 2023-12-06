@@ -1,0 +1,7 @@
+pl/training/payments/domain/OrderProcessor.class
+pl/training/payments/domain/Order.class
+pl/training/payments/domain/DiscountCalculator.class
+pl/training/payments/domain/ConstantDiscountCalculator.class
+pl/training/payments/ports/PaymentsService.class
+pl/training/payments/domain/OrderEntry.class
+pl/training/payments/ports/ShopService.class

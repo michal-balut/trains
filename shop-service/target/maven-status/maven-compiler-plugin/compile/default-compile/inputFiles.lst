@@ -1,0 +1,14 @@
+/Users/u758748/Developer/spring-cloud/shop-service/src/main/java/pl/training/payments/ShopConfiguration.java
+/Users/u758748/Developer/spring-cloud/shop-service/src/main/java/pl/training/payments/adapters/rest/RestShopMapper.java
+/Users/u758748/Developer/spring-cloud/shop-service/src/main/java/pl/training/payments/adapters/payments/PaymentsApi.java
+/Users/u758748/Developer/spring-cloud/shop-service/src/main/java/pl/training/payments/commons/CustomHealthEndpoint.java
+/Users/u758748/Developer/spring-cloud/shop-service/src/main/java/pl/training/payments/adapters/events/StreamEventConsumer.java
+/Users/u758748/Developer/spring-cloud/shop-service/src/main/java/pl/training/payments/adapters/payments/PaymentRequestDto.java
+/Users/u758748/Developer/spring-cloud/shop-service/src/main/java/pl/training/payments/adapters/rest/OrderDto.java
+/Users/u758748/Developer/spring-cloud/shop-service/src/main/java/pl/training/payments/adapters/payments/PaymentDto.java
+/Users/u758748/Developer/spring-cloud/shop-service/src/main/java/pl/training/payments/adapters/rest/OrderEntryDto.java
+/Users/u758748/Developer/spring-cloud/shop-service/src/main/java/pl/training/payments/adapters/payments/FeignPaymentsService.java
+/Users/u758748/Developer/spring-cloud/shop-service/src/main/java/pl/training/payments/adapters/payments/RestTemplatePaymentsService.java
+/Users/u758748/Developer/spring-cloud/shop-service/src/main/java/pl/training/payments/adapters/events/PaymentEventDto.java
+/Users/u758748/Developer/spring-cloud/shop-service/src/main/java/pl/training/payments/ShopApplication.java
+/Users/u758748/Developer/spring-cloud/shop-service/src/main/java/pl/training/payments/adapters/rest/ShopRestAdapter.java
