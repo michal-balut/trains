@@ -20,6 +20,8 @@
 	<modules>
 		<module>configuration-server</module>
 		<module>discovery-server</module>
+		<module>irreg-domain</module>
+		<module>irreg-service</module>
 		<module>payments-service</module>
 		<module>payments-domain</module>
 		<module>notification-service</module>

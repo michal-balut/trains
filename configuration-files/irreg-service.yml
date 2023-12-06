@@ -1,0 +1,11 @@
+spring:
+  messages:
+    basename: exceptions
+  cloud:
+    stream:
+      kafka:
+        binder:
+          brokers: localhost:9092
+      bindings:
+        irregularities-out-0:
+          destination: irreg-events
