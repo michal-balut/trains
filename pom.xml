@@ -23,7 +23,6 @@
 		<module>payments-service</module>
 		<module>payments-domain</module>
 		<module>notification-service</module>
-		<module>route-service</module>
 	</modules>
 
 </project>
